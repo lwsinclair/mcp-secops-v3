@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/emeryray2002-mcp-secops-v3-badge.png)](https://mseep.ai/app/emeryray2002-mcp-secops-v3)
+
 This project is deprecated in favor of: https://github.com/google/mcp-security
 
 # Chronicle SecOps MCP Server
